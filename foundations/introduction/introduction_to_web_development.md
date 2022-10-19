@@ -12,15 +12,15 @@ For more details, Wikipedia describes the breadth of the web development profess
 
 ### Types of Web Developers
 
-Earlier, we mentioned that web development work could be in the front end, the back end, or the full stack. What exactly do these terms mean?
+Earlier, we mentioned that web development work could be in the front-end, the back-end, or the full stack. What exactly do these terms mean?
 
-The **front end** is the stuff you see on the website in your browser, including the presentation of content and user interface elements like the navigation bar.
+The **front-end** is the stuff you see on the website in your browser, including the presentation of content and user interface elements like the navigation bar.
 Front-end developers use HTML, CSS, JavaScript, and their relevant frameworks to ensure that content is presented effectively and that users have an excellent experience.
 
-The **back end** refers to the guts of the application, which live on the server. The back end stores and serves program data to ensure that the front end has what it needs. This process can become very complicated when a website has millions of users.
+The **back-end** refers to the guts of the application, which live on the server. The back-end stores and serves program data to ensure that the front-end has what it needs. This process can become very complicated when a website has millions of users.
 Back-end developers use programming languages like Java, Python, and Ruby to work with data.
 
-**Full-stack developers** are comfortable working with both the front and back ends. At The Odin Project, we focus on teaching you full-stack development, covering all aspects of web development.
+**Full-stack developers** are comfortable working with both the front and back-ends. At The Odin Project, we focus on teaching you full-stack development, covering all aspects of web development.
 
 For more detail, Udacity has a great blog post on this topic: [3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html)
 
